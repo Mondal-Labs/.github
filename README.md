@@ -108,14 +108,14 @@ We are always open to discussing new ideas, tech partnerships, and ecosystem dev
   <a href="https://instagram.com/mondallabs">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://x.com/Mondal_Labs">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
+  </a>
   <a href="https://youtube.com/@mondallabs">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://wa.me/8801326240095">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://x.com/Mondal_Labs">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
   </a>
 </div>
 
