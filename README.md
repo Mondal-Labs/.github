@@ -4,7 +4,7 @@
   **Your Idea, Our Technology.**
 
   [![Website](https://img.shields.io/badge/Official%20Website-mondallabs.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mondallabs.com)
-  [![Email](https://img.shields.io/badge/Email-mondallabs.official@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mondallabs.official@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-contact@mondallabs.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mondallabs.com)
 
 </div>
 
@@ -101,7 +101,7 @@ Each project inside Mondal Labs operates with its own dedicated UI/UX and custom
 ## 🤝 Connect With Us
 We are always open to discussing new ideas, tech partnerships, and ecosystem development.
 
-<div align="left">
+<div align="center">
   <a href="https://facebook.com/mondallabs">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
@@ -113,6 +113,9 @@ We are always open to discussing new ideas, tech partnerships, and ecosystem dev
   </a>
   <a href="https://wa.me/8801326240095">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://x.com/Mondal_Labs">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
   </a>
 </div>
 
