@@ -52,21 +52,25 @@ We leverage the power of modern frameworks and AI-driven development to deliver 
 
 ### 🎨 Frontend & UI
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,svelte,astro,tailwind,sass,bootstrap,vite&perline=8" alt="Frontend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs" alt="Frontend Tech Stack Row 1" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=angular,svelte,astro,tailwind,sass,bootstrap,vite" alt="Frontend Tech Stack Row 2" />
 </a>
 
 <br><br>
 
 ### ⚙️ Backend & API
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,fastapi,go,java,spring&perline=8" alt="Backend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,fastapi,go" alt="Backend Tech Stack Row 1" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=java,spring" alt="Backend Tech Stack Row 2" />
 </a>
 
 <br><br>
 
 ### 📱 Mobile Apps & CMS
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift,wordpress&perline=8" alt="Mobile & CMS Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift,wordpress" alt="Mobile & CMS Tech Stack" />
 </a>
 <br>
 *(Filament, Strapi, Sanity)*
@@ -75,14 +79,16 @@ We leverage the power of modern frameworks and AI-driven development to deliver 
 
 ### 🗄️ Database & BaaS
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase,prisma&perline=8" alt="Database Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase,prisma" alt="Database Tech Stack" />
 </a>
 
 <br><br>
 
 ### ☁️ DevOps, Cloud & Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,netlify,git,github,gitlab,figma,postman&perline=8" alt="DevOps & Tools Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,netlify,git,github" alt="DevOps & Tools Tech Stack Row 1" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=gitlab,figma,postman" alt="DevOps & Tools Tech Stack Row 2" />
 </a>
 
 </div>
