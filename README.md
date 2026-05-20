@@ -73,7 +73,6 @@ We leverage the power of modern frameworks and AI-driven development to deliver 
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift,wordpress" alt="Mobile & CMS Tech Stack" />
 </a>
 <br>
-*(Filament, Strapi, Sanity)*
 
 <br><br>
 
